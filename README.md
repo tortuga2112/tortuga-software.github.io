@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page for Tortuga Software ![
 
-You can use the [editor on GitHub](https://github.com/tortuga2112/tortuga-software.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will post my projects here when I'm working on them to showcase my coding skills. Currently I have the following items that I'm working on in my spare time.
+1. New website for Knine connections, theme from theme forest
+2. website project for All native Plant nursery 
+3. Free Code Camp Front-end/Back-End Developers course
+4. Udemy
+5. Youtube video tutorials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Current Technologies I'm working through
+- HTML
+- JavaScript
+- CSS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
